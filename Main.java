@@ -1,4 +1,4 @@
-public class main {
+public class Main {
     public static void main(String[] args) {
         int value1 = 5;
         int value2 = 10;
@@ -6,11 +6,6 @@ public class main {
         boolean boleanValue = true;
         System.out.println("Summe: " + valueSum + " " + boleanValue);
 
-        if (valueSum < value1) {
-            System.out.println("Summe ist kleiner.");
-        } else {
-            System.out.println("Summe ist größer.");
-        }
         double value3 = 0.5;
         double value4 = 1.0;
         double floatSum = value3 / value4;
@@ -32,3 +27,4 @@ public class main {
 
     }
 }
+// HaLLo
